@@ -1,3 +1,7 @@
+<?php
+    include('dbcon.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -78,7 +82,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex justify-content-center align-items-center">
     <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Learning Today,<br>Leading Tomorrow</h1>
+      <h1>Tech is Tomorrow</h1>
       <h2>We are team of talented designers making websites </h2>
       <a href="login.php" class="btn-get-started">Log in</a>
     </div>
@@ -459,8 +463,8 @@
               Imo Street <br>
               Ilesa, Osun state<br>
               NIGERIA <br><br>
-              <strong>Phone:</strong> +23489 55488 55<br>
-              <strong>Email:</strong> chyketech@gmail.com<br>
+              <strong>Phone:</strong> <a href="tel: +234 703 793 3533">+234 703 793 3533</a><br>
+              <strong>Email:</strong> <a href="mailto: chyketech@gmail.com">chyketech@gmail.com</a><br>
             </p>
           </div>
 
