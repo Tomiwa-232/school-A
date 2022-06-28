@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/OTI.jpg" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -304,11 +304,11 @@
                 </div>
 
                 <h3><a href="course-details.php">Website Design</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>A web designer works on the appearance, layout, and, in some cases, content of a website. Appearance, for instance, relates to the colors, font, and images ...</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
-                    <span>Antonio</span>
+                    <span>Chike</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                     <i class="bx bx-user"></i>&nbsp;50
@@ -330,11 +330,11 @@
                 </div>
 
                 <h3><a href="course-details.php">Search Engine Optimization</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Content marketing includes things like educational articles, e-books, videos, entertainment, and webinars that answer specific questions people ...</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
-                    <span>Lana</span>
+                    <span>Debayo</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                     <i class="bx bx-user"></i>&nbsp;35
@@ -356,7 +356,7 @@
                 </div>
 
                 <h3><a href="course-details.php">Copywriting</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p> A copywriter creates content to persuade their readers, whereas a content writer produces content to inform their readers. Since copywriters are ...</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">

@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Courses - Mentor Bootstrap Template</title>
+  <title>Courses - ChykeTech</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/OTI.jpg" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -88,7 +88,7 @@
     <div class="breadcrumbs">
       <div class="container">
         <h2>Courses</h2>
-        <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+        <!-- <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p> -->
       </div>
     </div><!-- End Breadcrumbs -->
 
@@ -108,11 +108,11 @@
                 </div>
 
                 <h3><a href="course-details.php">Website Design</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>A web designer works on the appearance, layout, and, in some cases, content of a website. Appearance, for instance, relates to the colors, font, and images ...</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="" style="border-radius: 8px;">
-                    <span>Antonio</span>
+                    <span>Chike</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                     <i class="bx bx-user"></i>&nbsp;50
@@ -134,11 +134,11 @@
                 </div>
 
                 <h3><a href="course-details.php">Search Engine Optimization</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p>Content marketing includes things like educational articles, e-books, videos, entertainment, and webinars that answer specific questions people ...</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="" style="border-radius: 8px;">
-                    <span>Lana</span>
+                    <span>Debayo</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
                     <i class="bx bx-user"></i>&nbsp;35
@@ -160,7 +160,7 @@
                 </div>
 
                 <h3><a href="course-details.php">Copywriting</a></h3>
-                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
+                <p> A copywriter creates content to persuade their readers, whereas a content writer produces content to inform their readers. Since copywriters are ...</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="" style="border-radius: 8px;">
@@ -191,13 +191,13 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Mentor</h3>
+            <h3>ChykeTech</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Imo Street <br>
+              Ilesa, Osun state<br>
+              NIGERIA <br><br>
+              <strong>Phone:</strong> +23489 55488 55<br>
+              <strong>Email:</strong> chyketech@gmail.com<br>
             </p>
           </div>
 
@@ -206,13 +206,13 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
+            </ul> -->
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <!-- <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -221,11 +221,11 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
             </ul>
-          </div>
+          </div> -->
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>You consider getting updates about CHYKETECH INSTITUTE in your mail?</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -239,22 +239,22 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Mentor</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>ChykeTech</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/ChykeTech-free-education-bootstrap-theme/ -->
+          Designed by <a href="https://api.whatsapp.com/send?phone=+2349061959906&text=This%20is%20AYOTOMIWA,%20what%20is%20your%20name?">AYOTOMIWA OTI</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://api.whatsapp.com/send?phone=+2349061959906&text=This%20is%20AYOTOMIWA,%20what%20is%20your%20name?" class="twitter"><i class="bx bxl-whatsapp"></i></a>
+        <!-- <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
       </div>
     </div>
   </footer><!-- End Footer -->
