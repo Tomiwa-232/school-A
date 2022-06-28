@@ -216,7 +216,7 @@
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
                   <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
+                  <h3>Matt Tomiwa</h3>
                   <h4>Freelancer</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
