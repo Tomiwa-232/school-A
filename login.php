@@ -15,6 +15,11 @@
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  <!-- Bootstrap CDN -->
+  <!-- CSS only -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
@@ -142,28 +147,35 @@
             </div>
         </div>
 
+            <div class="login">
+                <div class="contenti">
+                    <h1 class="contenti-h1">Log in</h1>
+                <form action="#">
+                    <div class="form">
+                        <div class="field">
+                            <span><i class="fa-solid fa-user"></i></span>
+                            <input type="text" placeholder="Matric number or UTME number" name="jambreg" required>
+                        </div>
+                        <div class="field space">
+                            <span><i class="fa-solid fa-lock"></i></span>
+                            <input type="password" class="pass" placeholder="Password" name="password" required>
+                            <!-- <span class="show">SHOW</span> -->
+                        </div><br>
+                        <div class="ayo">
+                            <div class="field">
+                                <input type="submit" value="Log in" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="forgot-pass">
+                        <a href="#">Forgot Password?</a>
+                    </div>
 
-              <div class="contenti">
-                <h1 class="contenti-h1">Log in</h1>
-                <form action="#" method="get">
-                    <div class="field">
-                        <span class="fa fa-user"></span>
-                        <input type="text" placeholder="Matric number or UTME number" required>
-                    </div>
-                    <div class="field space">
-                        <span class="fa fa-lock"></span>
-                        <input type="password" class="pass" placeholder="Password" required>
-                        <!-- <span class="show">SHOW</span> -->
-                    </div><br>
-                    <div class="field">
-                        <input type="submit" value="Log in" required>
-                    </div>
-                </form>
-                
-                <div class="forgot-pass">
-                    <a href="#">Forgot Password?</a>
-                </div>
-              </div>
+                    <div class="error-txtt"></div>
+
+                </form>    
+            </div>
+        </div>
 
 
 
@@ -202,11 +214,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>ChykeTech</h3>
             <p>
-              Imo Street <br>
+              Nobility building, Imo Rd, beside nice day hotel, <br>
               Ilesa, Osun state<br>
               NIGERIA <br><br>
-              <strong>Phone:</strong> +23489 55488 55<br>
-              <strong>Email:</strong> chyketech@gmail.com<br>
+              <strong>Phone:</strong> <a href="tel: +234 703 793 3533">+234 703 793 3533</a><br>
+              <strong>Email:</strong> <a href="mailto: chyketech@gmail.com">chyketech@gmail.com</a><br>
             </p>
           </div>
 
@@ -279,7 +291,9 @@
   <script src="assets/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
+  <script src="assets/js/validator_login.js"></script>
   <script src="assets/js/main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js" integrity="sha512-6PM0qYu5KExuNcKt5bURAoT6KCThUmHRewN3zUFNaoI6Di7XJPTMoT6K0nsagZKk2OB4L7E3q1uQKHNHd4stIQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 </body>
 

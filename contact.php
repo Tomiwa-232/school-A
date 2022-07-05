@@ -88,7 +88,7 @@
     <div class="breadcrumbs" data-aos="fade-in">
       <div class="container">
         <h2>Contact Us</h2>
-        <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+        <!-- <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p> -->
       </div>
     </div><!-- End Breadcrumbs -->
 
@@ -96,6 +96,8 @@
     <section id="contact" class="contact">
       <div data-aos="fade-up">
         <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <!-- <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/place/Imo+Rd,+Ilerin/@7.6300369,4.7618475,15.68z/data=!4m5!3m4!1s0x103818547a0cbd75:0x8613faad47886b0b!8m2!3d7.6266551!4d4.7648555" frameborder="0" allowfullscreen></iframe> -->
+            
       </div>
 
       <div class="container" data-aos="fade-up">
@@ -107,19 +109,21 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Nobility building, Imo Rd, beside nice day hotel, <br>
+              Ilesa, Osun state<br>
+              NIGERIA </p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <a href="mailto: chyketech@gmail.com">chyketech@gmail.com</a><br>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <a href="tel: +234 703 793 3533">+234 703 793 3533</a>
               </div>
 
             </div>
@@ -170,11 +174,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>ChykeTech</h3>
             <p>
-              Imo Street <br>
+              Nobility building, Imo Rd, beside nice day hotel, <br>
               Ilesa, Osun state<br>
               NIGERIA <br><br>
-              <strong>Phone:</strong> +23489 55488 55<br>
-              <strong>Email:</strong> chyketech@gmail.com<br>
+              <strong>Phone:</strong> <a href="tel: +234 703 793 3533">+234 703 793 3533</a><br>
+              <strong>Email:</strong> <a href="mailto: chyketech@gmail.com">chyketech@gmail.com</a><br>
             </p>
           </div>
 

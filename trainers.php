@@ -171,7 +171,7 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>ChykeTech</h3>
             <p>
-              Imo Street <br>
+              Nobility building, Imo Rd, beside nice day hotel, <br>
               Ilesa, Osun state<br>
               NIGERIA <br><br>
               <strong>Phone:</strong> +23489 55488 55<br>
