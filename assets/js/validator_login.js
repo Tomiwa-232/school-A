@@ -1,5 +1,6 @@
 const form1 = document.querySelector(".login form"),
     keyBtn = form1.querySelector(".ayo input"),
+    keyBt = form1.querySelector(".liveAlertBtn"),
     errText = form1.querySelector(".error-txtt");
 /* loginText = form.querySelector(".error-txtt"); */
 
@@ -16,8 +17,9 @@ keyBtn.onclick = () => {
                     let data = xhr.response;
                     if (data == "We're sorry, your login details are not correct!") {
                       
-                        errText.textContent = data;
-                        errText.style.display = "block";
+                        /* errText.textContent = data;
+                        errText.style.display = "block"; */
+                        document.querySelector(".liveAlertBtn").click();
 
 
                     } else {

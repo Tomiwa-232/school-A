@@ -1,5 +1,6 @@
 const form1 = document.querySelector(".signupp form"),
     keyBtn = form1.querySelector(".butts button"),
+    keyBt = form1.querySelector(".liveAlertBtn"),
     errText = form1.querySelector(".error-txtt");
 /* loginText = form.querySelector(".error-txtt"); */
 
@@ -16,13 +17,16 @@ keyBtn.onclick = () => {
                     let data = xhr.response;
                     if (data == "We're sorry, it looks like the email address is already in use. Please use a different email address.") {
                       
-                        errText.textContent = data;
-                        errText.style.display = "block";
+                        // errText.textContent = data;
+                        // errText.style.display = "block";
+                        document.querySelector(".liveAlertBtn").click();
+
 
                     } else if (data == "Error! Confirm Password Not Match") {
                
-                        errText.textContent = data;
-                        errText.style.display = "block";
+                        // errText.textContent = data;
+                        // errText.style.display = "block";
+                        document.querySelector(".liveAlertBtn").click();
 
                     } else {
                      
